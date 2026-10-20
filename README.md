@@ -50,3 +50,28 @@ For updates, install over the existing app to preserve its local data. Do not un
 [Privacy / حریم خصوصی](PRIVACY.md)
 
 This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/02-signal.png" width="240" alt="Force Network Cell en 02-signal" />
+<img src="screenshots/en/03-cells.png" width="240" alt="Force Network Cell en 03-cells" />
+<img src="screenshots/en/04-band-explorer.png" width="240" alt="Force Network Cell en 04-band-explorer" />
+<img src="screenshots/en/05-tools.png" width="240" alt="Force Network Cell en 05-tools" />
+<img src="screenshots/en/06-diagnostics.png" width="240" alt="Force Network Cell en 06-diagnostics" />
+<img src="screenshots/en/07-settings.png" width="240" alt="Force Network Cell en 07-settings" />
+
+### فارسی
+
+<img src="screenshots/fa/02-signal.png" width="240" alt="Force Network Cell fa 02-signal" />
+<img src="screenshots/fa/03-cells.png" width="240" alt="Force Network Cell fa 03-cells" />
+<img src="screenshots/fa/04-band-explorer.png" width="240" alt="Force Network Cell fa 04-band-explorer" />
+<img src="screenshots/fa/05-tools.png" width="240" alt="Force Network Cell fa 05-tools" />
+<img src="screenshots/fa/06-diagnostics.png" width="240" alt="Force Network Cell fa 06-diagnostics" />
+<img src="screenshots/fa/07-settings.png" width="240" alt="Force Network Cell fa 07-settings" />
+
